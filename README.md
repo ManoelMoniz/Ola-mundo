@@ -1,2 +1,2 @@
-# Ola mundo
- Aula versionamento GIT GITHUB
+# Olá, mundo!
+ Aula de versionamento Git e Github
